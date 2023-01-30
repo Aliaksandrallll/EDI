@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    background-size: cover;
+    margin-bottom: 20px;
+    color: white;
+}
+
+body {
+  font-size: 15px;
+  color: white;
+  background-color: #e1afee;
+  
+}
+
+
+table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+
+  }
+
+#Tab {
+  font-family: 'Share Tech', sans-serif;
+  font-size: 15px;
+  height:500px;
+
+  
+ 
+}
+
+.content {
+  display: inline-block;
+  vertical-align:top;
+}
+
+#wykr1 {
+  background-color: white;
+}
+
+#wykr2 {
+  background-color: white;
+}
